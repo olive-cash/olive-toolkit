@@ -27,11 +27,13 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pancakeswap.finance",
+        href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x617724974218A18769020A70162165A539c07E8a",
+        external: true,
       },
       {
         label: "Liquidity",
         href: "https://exchange.pancakeswap.finance/#/pool",
+        external: true,
       },
     ],
   },
@@ -45,38 +47,6 @@ export const links = [
     label: "Pools",
     icon: "PoolIcon",
     href: "/syrup",
-  },
-  {
-    label: "Lottery",
-    icon: "TicketIcon",
-    href: "/lottery",
-  },
-  {
-    label: "NFT",
-    icon: "NftIcon",
-    href: "/nft",
-  },
-  {
-    label: "Team Battle",
-    icon: "TeamBattleIcon",
-    href: "/competition",
-    status: status.SOON,
-  },
-  {
-    label: "Profile & Teams",
-    icon: "GroupsIcon",
-    items: [
-      {
-        label: "Leaderboard",
-        href: "/teams",
-        status: status.NEW,
-      },
-      {
-        label: "YourProfile",
-        href: "/",
-      },
-    ],
-    calloutClass: "rainbow",
   },
   {
     label: "Info",
@@ -101,38 +71,23 @@ export const links = [
     ],
   },
   {
-    label: "IFO",
-    icon: "IfoIcon",
-    items: [
-      {
-        label: "Next",
-        href: "/ifo",
-      },
-      {
-        label: "History",
-        href: "/ifo/history",
-      },
-    ],
-  },
-  {
     label: "More",
     icon: "MoreIcon",
     items: [
       {
-        label: "Voting",
-        href: "https://voting.pancakeswap.finance",
-      },
-      {
         label: "Github",
-        href: "https://github.com/pancakeswap",
+        href: "https://github.com/olive-cash",
+        external: true,
       },
       {
         label: "Docs",
-        href: "https://docs.pancakeswap.finance",
+        href: "https://olive-cash.medium.com",
+        external: true,
       },
       {
         label: "Blog",
-        href: "https://pancakeswap.medium.com",
+        href: "https://olive-cash.medium.com",
+        external: true,
       },
     ],
   },
