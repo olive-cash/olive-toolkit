@@ -1,5 +1,5 @@
 {
-  "name": "@pancakeswap-libs/eslint-config-olive",
+  "name": "@olive-libs/eslint-config-olive",
   "version": "1.0.1",
   "description": "Eslint config for OliveCash",
   "main": "lib/index.js",
