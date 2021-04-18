@@ -2,7 +2,7 @@
   "name": "olive-toolkit",
   "version": "1.0.0",
   "description": "OliveCash frontend packages",
-  "private": false,
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
