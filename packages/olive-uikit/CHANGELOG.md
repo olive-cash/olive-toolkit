@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.25.4 (2021-04-18)
+
+**Note:** Version bump only for package @olive-libs/uikit
+
+
+
+
+
 ## [0.25.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.25.2...@pancakeswap-libs/uikit@0.25.3) (2021-04-15)
 
 
