@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.29.3](https://github.com/olive-cash/olive-toolkit/compare/@olive-libs/uikit@0.29.2...@olive-libs/uikit@0.29.3) (2021-04-29)
+
+**Note:** Version bump only for package @olive-libs/uikit
+
+
+
+
+
 ## 0.29.2 (2021-04-29)
 
 **Note:** Version bump only for package @olive-libs/uikit
