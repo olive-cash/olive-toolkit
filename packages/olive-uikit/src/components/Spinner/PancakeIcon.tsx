@@ -1,5 +1,4 @@
-@@ -0,0 +1,43 @@
-  import React from "react";
+import React from "react";
 import Svg from "../Svg/Svg";
 import { SvgProps } from "../Svg/types";
 
