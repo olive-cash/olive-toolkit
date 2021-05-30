@@ -1,27 +1,27 @@
 <svg width="24" height="32" viewBox="0 0 24 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0)">
-<ellipse cx="15" cy="24" rx="5" ry="6" fill="#70BA4D"/>
-<ellipse cx="9" cy="24" rx="5" ry="6" fill="#70BA4D"/>
-<path d="M-10 25.4516C-10 21.8885 -7.11151 19 -3.54839 19H2V29H-6.45161C-8.41133 29 -10 27.4113 -10 25.4516Z" fill="#70BA4D"/>
-<path d="M2 19H3V29H2V19Z" fill="#1FC7D4"/>
-<path d="M15 19H-2V29H15V19Z" fill="#70BA4D"/>
-<path d="M12 29C10.7948 29.1268 9.49135 27.6833 9.5 24C9.50865 20.3167 10.577 20.4406 12.1343 19" stroke="#558B2F" stroke-width="0.5" stroke-linecap="round"/>
-<ellipse cx="3" cy="24" rx="5" ry="6" fill="#70BA4D"/>
-<path d="M6 29C4.79481 29.1268 3.99135 27.6833 4 24C4.00865 20.3167 4.44273 20.4406 6 19" stroke="#558B2F" stroke-width="0.5" stroke-linecap="round"/>
+<ellipse cx="15" cy="23" rx="5" ry="6" fill="#70BA4D"/>
+<ellipse cx="9" cy="23" rx="5" ry="6" fill="#70BA4D"/>
+<path d="M-10 24.4516C-10 20.8885 -7.11151 18 -3.54839 18H2V28H-6.45161C-8.41133 28 -10 26.4113 -10 24.4516Z" fill="#70BA4D"/>
+<path d="M2 18H3V28H2V18Z" fill="#1FC7D4"/>
+<path d="M15 18H-2V28H15V18Z" fill="#70BA4D"/>
+<path d="M12 28C10.7948 28.1268 9.49135 26.6833 9.5 23C9.50865 19.3167 10.577 19.4406 12.1343 18" stroke="#558B2F" stroke-width="0.5" stroke-linecap="round"/>
+<ellipse cx="3" cy="23" rx="5" ry="6" fill="#70BA4D"/>
+<path d="M6 28C4.79481 28.1268 3.99135 26.6833 4 23C4.00865 19.3167 4.44273 19.4406 6 18" stroke="#558B2F" stroke-width="0.5" stroke-linecap="round"/>
 <g filter="url(#filter0_d)">
-<path d="M6 5.01709C7.33328 4.86606 10 5.65112 10 10" stroke="#452A7A" stroke-linecap="round"/>
-<path d="M16.0171 9C15.8661 7.66672 16.6511 5 21 5" stroke="#452A7A" stroke-linecap="round"/>
-<circle cx="13.5" cy="16.5" r="8.25" fill="#70BA4D" stroke="#558B2F" stroke-width="0.5"/>
-<path d="M15.9932 19C16.0536 19.3333 15.7396 20 14 20" stroke="#452A7A" stroke-linecap="round"/>
-<path d="M11.0103 19C10.9196 19.3333 11.3908 20 14 20" stroke="#452A7A" stroke-linecap="round"/>
-<path d="M12 13C12 13.7364 11.5523 14 11 14C10.4477 14 10 13.7364 10 13C10 12.2636 10.4477 12 11 12C11.5523 12 12 12.2636 12 13Z" fill="#452A7A"/>
-<path d="M17 13C17 13.7364 16.5523 14 16 14C15.4477 14 15 13.7364 15 13C15 12.2636 15.4477 12 16 12C16.5523 12 17 12.2636 17 13Z" fill="#452A7A"/>
+<path d="M6 4.01709C7.33328 3.86606 10 4.65112 10 9" stroke="#452A7A" stroke-linecap="round"/>
+<path d="M16.0171 8C15.8661 6.66672 16.6511 4 21 4" stroke="#452A7A" stroke-linecap="round"/>
+<circle cx="13.5" cy="15.5" r="8.25" fill="#70BA4D" stroke="#558B2F" stroke-width="0.5"/>
+<path d="M15.9932 18C16.0536 18.3333 15.7396 19 14 19" stroke="#452A7A" stroke-linecap="round"/>
+<path d="M11.0103 18C10.9196 18.3333 11.3908 19 14 19" stroke="#452A7A" stroke-linecap="round"/>
+<path d="M12 12C12 12.7364 11.5523 13 11 13C10.4477 13 10 12.7364 10 12C10 11.2636 10.4477 11 11 11C11.5523 11 12 11.2636 12 12Z" fill="#452A7A"/>
+<path d="M17 12C17 12.7364 16.5523 13 16 13C15.4477 13 15 12.7364 15 12C15 11.2636 15.4477 11 16 11C16.5523 11 17 11.2636 17 12Z" fill="#452A7A"/>
 </g>
-<ellipse cx="-2" cy="24" rx="5" ry="6" fill="#70BA4D"/>
-<path d="M0.448497 29C-0.75669 29.1268 -2.00865 27.6833 -2 24C-1.99135 20.3167 -1.10879 20.4386 0.448486 18.998" stroke="#558B2F" stroke-width="0.5" stroke-linecap="round"/>
+<ellipse cx="-2" cy="23" rx="5" ry="6" fill="#70BA4D"/>
+<path d="M0.448497 28C-0.75669 28.1268 -2.00865 26.6833 -2 23C-1.99135 19.3167 -1.10879 19.4386 0.448486 17.998" stroke="#558B2F" stroke-width="0.5" stroke-linecap="round"/>
 </g>
 <defs>
-<filter id="filter0_d" x="1" y="4.5" width="25" height="28.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d" x="1" y="3.5" width="25" height="28.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
