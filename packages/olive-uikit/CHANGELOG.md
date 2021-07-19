@@ -3,73 +3,151 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.35.9](https://github.com/olive-cash/olive-toolkit/compare/@olive-libs/uikit@0.35.8...@olive-libs/uikit@0.35.9) (2021-05-31)
+## [0.40.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.40.3...@pancakeswap/uikit@0.40.4) (2021-07-16)
 
-**Note:** Version bump only for package @olive-libs/uikit
-
-
-
-
-
-## [0.35.8](https://github.com/olive-cash/olive-toolkit/compare/@olive-libs/uikit@0.35.7...@olive-libs/uikit@0.35.8) (2021-05-31)
-
-**Note:** Version bump only for package @olive-libs/uikit
+**Note:** Version bump only for package @pancakeswap/uikit
 
 
 
 
 
-## [0.35.7](https://github.com/olive-cash/olive-toolkit/compare/@olive-libs/uikit@0.35.6...@olive-libs/uikit@0.35.7) (2021-05-30)
-
-**Note:** Version bump only for package @olive-libs/uikit
+## [0.40.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.40.2...@pancakeswap/uikit@0.40.3) (2021-07-15)
 
 
+### Bug Fixes
 
-
-
-## [0.35.6](https://github.com/olive-cash/olive-toolkit/compare/@olive-libs/uikit@0.35.5...@olive-libs/uikit@0.35.6) (2021-05-30)
-
-**Note:** Version bump only for package @olive-libs/uikit
+* Increase ifo stepper connector height in mobile ([#195](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/195)) ([5408d1c](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/5408d1ca6099154d5385b0aaecf5015fdf8b4d20))
 
 
 
 
 
-## [0.35.5](https://github.com/olive-cash/olive-toolkit/compare/@olive-libs/uikit@0.35.4...@olive-libs/uikit@0.35.5) (2021-05-30)
+## [0.40.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.40.1...@pancakeswap/uikit@0.40.2) (2021-07-09)
 
-**Note:** Version bump only for package @olive-libs/uikit
-
-
-
-
-
-## [0.35.4](https://github.com/olive-cash/olive-toolkit/compare/@olive-libs/uikit@0.35.3...@olive-libs/uikit@0.35.4) (2021-05-30)
-
-**Note:** Version bump only for package @olive-libs/uikit
+**Note:** Version bump only for package @pancakeswap/uikit
 
 
 
 
 
-## [0.35.3](https://github.com/olive-cash/olive-toolkit/compare/@olive-libs/uikit@0.35.2...@olive-libs/uikit@0.35.3) (2021-05-29)
+## [0.40.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.40.0...@pancakeswap/uikit@0.40.1) (2021-07-09)
 
-**Note:** Version bump only for package @olive-libs/uikit
-
-
-
-
-
-## [0.35.2](https://github.com/olive-cash/olive-toolkit/compare/@olive-libs/uikit@0.35.1...@olive-libs/uikit@0.35.2) (2021-05-28)
-
-**Note:** Version bump only for package @olive-libs/uikit
+**Note:** Version bump only for package @pancakeswap/uikit
 
 
 
 
 
-## 0.35.1 (2021-05-27)
+# [0.40.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.39.4...@pancakeswap/uikit@0.40.0) (2021-07-01)
 
-**Note:** Version bump only for package @olive-libs/uikit
+
+### Features
+
+* Reactive modals ([#183](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/183)) ([7644124](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/7644124b0205379019eba9aebcab30d163144fae))
+
+
+
+
+
+## [0.39.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.39.3...@pancakeswap/uikit@0.39.4) (2021-06-30)
+
+**Note:** Version bump only for package @pancakeswap/uikit
+
+
+
+
+
+## [0.39.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.39.2...@pancakeswap/uikit@0.39.3) (2021-06-21)
+
+**Note:** Version bump only for package @pancakeswap/uikit
+
+
+
+
+
+## [0.39.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.39.1...@pancakeswap/uikit@0.39.2) (2021-06-18)
+
+**Note:** Version bump only for package @pancakeswap/uikit
+
+
+
+
+
+## [0.39.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.39.0...@pancakeswap/uikit@0.39.1) (2021-06-17)
+
+
+### Bug Fixes
+
+* (userblock) Check Props properties seperately to not cause rerender each time ([#151](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/151)) ([e6f90d7](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/e6f90d7b41a1b3a1d373560dd29e06f10c324639))
+
+
+
+
+
+# [0.39.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.38.0...@pancakeswap/uikit@0.39.0) (2021-06-14)
+
+
+### Features
+
+* Menu variant without Connect button ([#155](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/155)) ([84b6f68](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/84b6f683693b426428c5445fc6891608e3943399))
+
+
+
+
+
+# [0.38.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.37.1...@pancakeswap/uikit@0.38.0) (2021-06-11)
+
+
+### Bug Fixes
+
+* (userblock) Rerender userblock when one of the props changes ([#148](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/148)) ([ba5e3ab](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/ba5e3ab25d558830a1af49e82943b53c5a5ab344))
+
+
+### Features
+
+* (connect) Change how to connect link with more accurate one ([#152](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/152)) ([bfbe506](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/bfbe506e63ef7a243d7425d07fb59c9da9d5a06b))
+
+
+
+
+
+## [0.37.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.37.0...@pancakeswap/uikit@0.37.1) (2021-06-09)
+
+
+### Bug Fixes
+
+* (Menu) Footer is not visible completely when navigation bar is visible ([#138](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/138)) ([fa6fc66](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/fa6fc669091398de8c3cee156e3724006023a4a2))
+* Message component ([#150](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/150)) ([90387d4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/90387d4cc5758763476d1d20c0a9b8d63588c689))
+
+
+
+
+
+# [0.37.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.36.1...@pancakeswap/uikit@0.37.0) (2021-06-08)
+
+
+### Features
+
+* (BalanceInput) Add decimal check support ([#142](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/142)) ([763e13f](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/763e13f836ac2cbb8a3b1132d98854e07a492ced))
+
+
+
+
+
+## [0.36.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.36.0...@pancakeswap/uikit@0.36.1) (2021-06-03)
+
+**Note:** Version bump only for package @pancakeswap/uikit
+
+
+
+
+
+# [0.36.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.35.0...@pancakeswap/uikit@0.36.0) (2021-05-31)
+
+
+### Features
+
+* Add a grid primitive ([#122](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/122)) ([15e8aad](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/15e8aad6bd87ed204a7ffcd14d434a009a0051ef))
 
 
 
