@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.42.1](https://github.com/olive-cash/olive-toolkit/compare/@olive-libs/uikit@0.40.4...@olive-libs/uikit@0.42.1) (2021-07-31)
+
+**Note:** Version bump only for package @olive-libs/uikit
+
+
+
+
+
 ## [0.42.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.42.0...@pancakeswap/uikit@0.42.1) (2021-07-29)
 
 **Note:** Version bump only for package @pancakeswap/uikit
