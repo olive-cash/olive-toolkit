@@ -3,23 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [2.12.0](https://github-olive/olive-cash/olive-toolkit/compare/@olive-libs/token-lists@2.11.0...@olive-libs/token-lists@2.12.0) (2021-07-19)
+## [2.17.9](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.8...@pancakeswap/token-lists@2.17.9) (2021-07-29)
+
+**Note:** Version bump only for package @pancakeswap/token-lists
 
 
-### Bug Fixes
-
-* Add missing logos ([#144](https://github-olive/olive-cash/olive-toolkit/issues/144)) ([7bad2fa](https://github-olive/olive-cash/olive-toolkit/commit/7bad2faa6ab163e2883a0231961cffa6dbd9455d))
-* Decimals on Hai ([#163](https://github-olive/olive-cash/olive-toolkit/issues/163)) ([46bb8e9](https://github-olive/olive-cash/olive-toolkit/commit/46bb8e9eab419cea641d46e635e217442e026486))
-* Move netlify toml file to token-lists ([#127](https://github-olive/olive-cash/olive-toolkit/issues/127)) ([ce6f2cd](https://github-olive/olive-cash/olive-toolkit/commit/ce6f2cd41faf44af16322e4a37d93af6750dd592))
-* Tau coins ([#129](https://github-olive/olive-cash/olive-toolkit/issues/129)) ([29e5c38](https://github-olive/olive-cash/olive-toolkit/commit/29e5c383f6460474510662bf8cfebe0b15ffc003))
 
 
-### Features
 
-* **token-lists:** Automated Top100 token list generation ([#134](https://github-olive/olive-cash/olive-toolkit/issues/134)) ([c7e69a5](https://github-olive/olive-cash/olive-toolkit/commit/c7e69a56c22911c6822632ecb267b4e0ecab8d14))
-* **token-lists:** ORBS & FORM ([#173](https://github-olive/olive-cash/olive-toolkit/issues/173)) ([465ff3b](https://github-olive/olive-cash/olive-toolkit/commit/465ff3bcf025dc53e06366ef841b643b2dc84341))
-* Add ATA to extended token list ([#143](https://github-olive/olive-cash/olive-toolkit/issues/143)) ([5360873](https://github-olive/olive-cash/olive-toolkit/commit/5360873fa08d75ba34251f401a37dae28a7fc4c8))
-* Add token logos ([#125](https://github-olive/olive-cash/olive-toolkit/issues/125)) ([e402156](https://github-olive/olive-cash/olive-toolkit/commit/e402156f2c304b1b6f26324ddb91ba7d277f1821))
+## [2.17.8](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.7...@pancakeswap/token-lists@2.17.8) (2021-07-28)
+
+**Note:** Version bump only for package @pancakeswap/token-lists
+
+
+
+
+
+## [2.17.7](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.17.6...@pancakeswap/token-lists@2.17.7) (2021-07-21)
+
+**Note:** Version bump only for package @pancakeswap/token-lists
 
 
 

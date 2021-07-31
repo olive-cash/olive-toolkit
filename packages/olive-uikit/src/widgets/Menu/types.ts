@@ -1,18 +1,10 @@
+import { ReactElement } from "react";
 import { Colors } from "../../theme/types";
-import { Login } from "../WalletModal/types";
 
 export interface Language {
   code: string;
   language: string;
   locale: string;
-}
-
-export interface Profile {
-  username?: string;
-  image?: string;
-  profileLink: string;
-  noProfileLink: string;
-  showPip?: boolean;
 }
 
 export interface PushedProps {
@@ -58,8 +50,5 @@ export interface PanelProps {
 }
 
 export interface NavProps extends PanelProps {
-  account?: string;
-  login?: Login;
-  profile?: Profile;
-  logout?: () => void;
+  userMenu?: ReactElement;
 }

@@ -3,9 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.40.4](https://github.com/olive-cash/olive-toolkit/compare/@olive-libs/uikit@0.35.9...@olive-libs/uikit@0.40.4) (2021-07-19)
+## [0.42.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.42.0...@pancakeswap/uikit@0.42.1) (2021-07-29)
 
-**Note:** Version bump only for package @olive-libs/uikit
+**Note:** Version bump only for package @pancakeswap/uikit
+
+
+
+
+
+# [0.42.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.41.0...@pancakeswap/uikit@0.42.0) (2021-07-28)
+
+
+### Features
+
+* **uikit-buttonmenu:** Full width ([#212](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/212)) ([0fa2ff5](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/0fa2ff5f209843f489f0f65c3b885361beec5014))
+
+
+
+
+
+# [0.41.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.40.4...@pancakeswap/uikit@0.41.0) (2021-07-21)
+
+
+### Features
+
+* **uikit:** Wallet icons ([#206](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/206)) ([7bff4b5](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/7bff4b57a92ba6363187af429b26ef2dd2658830))
 
 
 

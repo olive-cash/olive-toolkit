@@ -1,6 +1,6 @@
 {
   "name": "@olive-libs/uikit",
-  "version": "0.40.4",
+  "version": "0.42.1",
   "description": "Set of UI components for OliveCash projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -56,10 +56,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "bugs": {
-    "url": "https://github.com/olive-cash/olive-toolkit/issues"
-  },
-  "homepage": "https://github.com/olive-cash/olive-toolkit#readme",
-  "author": ""
+  }
 }
