@@ -1,10 +1,10 @@
 {
   "name": "PancakeSwap Extended",
-  "timestamp": "2021-07-28T07:18:41.522Z",
+  "timestamp": "2021-08-09T09:37:47.062Z",
   "version": {
     "major": 2,
     "minor": 16,
-    "patch": 13
+    "patch": 16
   },
   "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
   "keywords": [
@@ -157,6 +157,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0.png"
     },
     {
+      "name": "BabyCake",
+      "symbol": "BABYCAKE",
+      "address": "0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c.png"
+    },
+    {
       "name": "Bakery Token",
       "symbol": "BAKE",
       "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
@@ -275,6 +283,14 @@
       "chainId": 56,
       "decimals": 6,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F.png"
+    },
+    {
+      "name": "Binamon",
+      "symbol": "BMON",
+      "address": "0x08ba0619b1e7A582E0BCe5BBE9843322C954C340",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x08ba0619b1e7A582E0BCe5BBE9843322C954C340.png"
     },
     {
       "name": "Multiplier",
@@ -725,6 +741,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8.png"
     },
     {
+      "name": "MetaHero",
+      "symbol": "HERO",
+      "address": "0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13.png"
+    },
+    {
       "name": "Hedget",
       "symbol": "HGET",
       "address": "0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731",
@@ -965,6 +989,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x49022089e78a8D46Ec87A3AF86a1Db6c189aFA6f.png"
     },
     {
+      "name": "MacaronSwap",
+      "symbol": "MCRN",
+      "address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xacb2d47827C9813AE26De80965845D80935afd0B.png"
+    },
+    {
       "name": "Mirror GOOGL Token",
       "symbol": "mGOOGL",
       "address": "0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
@@ -1173,6 +1205,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xaBaE871B7E3b67aEeC6B46AE9FE1A91660AadAC5.png"
     },
     {
+      "name": "Moonpot",
+      "symbol": "POTS",
+      "address": "0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x3Fcca8648651E5b974DD6d3e50F61567779772A8.png"
+    },
+    {
       "name": "Prometeus",
       "symbol": "PROM",
       "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
@@ -1261,6 +1301,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x695FD30aF473F2960e81Dc9bA7cB67679d35EDb7.png"
     },
     {
+      "name": "REVV",
+      "symbol": "REVV",
+      "address": "0x833F307aC507D47309fD8CDD1F835BeF8D702a93",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x833F307aC507D47309fD8CDD1F835BeF8D702a93.png"
+    },
+    {
       "name": "RFOX",
       "symbol": "RFOX",
       "address": "0x0a3A21356793B49154Fd3BbE91CBc2A16c0457f5",
@@ -1291,6 +1339,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb.png"
+    },
+    {
+      "name": "CryptoBlades Skill Token",
+      "symbol": "SKILL",
+      "address": "0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab.png"
     },
     {
       "name": "SPARTAN PROTOCOL TOKEN",
@@ -1603,6 +1659,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x4691937a7508860F876c9c0a2a617E7d9E945D4B.png"
+    },
+    {
+      "name": "Wall Street Games",
+      "symbol": "WSG",
+      "address": "0xA58950F05FeA2277d2608748412bf9F802eA4901",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xA58950F05FeA2277d2608748412bf9F802eA4901.png"
     },
     {
       "name": "Soteria",
