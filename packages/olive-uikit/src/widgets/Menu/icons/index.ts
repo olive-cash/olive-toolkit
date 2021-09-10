@@ -17,3 +17,8 @@ export { default as TelegramIcon } from "./Telegram";
 export { default as TicketIcon } from "./Ticket";
 export { default as TradeIcon } from "./Trade";
 export { default as TwitterIcon } from "./Twitter";
+export { default as ChainAvalanche } from "./ChainAvalanche";
+export { default as ChainBSC } from "./ChainBSC";
+export { default as ChainFantom } from "./ChainFantom";
+export { default as ChainHarmony } from "./ChainHarmony";
+export { default as ChainPolygon } from "./ChainPolygon";
