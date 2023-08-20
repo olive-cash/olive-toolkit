@@ -1,7 +1,7 @@
 {
   "name": "olive-toolkit",
   "version": "1.0.0",
-  "description": "OliveCash frontend packages",
+  "description": "AceOF frontend packages",
   "private": true,
   "workspaces": [
     "packages/*"

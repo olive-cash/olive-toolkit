@@ -146,18 +146,18 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/olive_cash_chat",
+        href: "https://t.me/AceOfBaseChat",
       },
       {
         label: "Announcements",
-        href: "https://t.me/olive_cash",
+        href: "https://t.me/AceOfBaseNews",
       }
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/olivecashbsc",
+    href: "https://twitter.com/aceofbase2023",
   },
 ];
 
