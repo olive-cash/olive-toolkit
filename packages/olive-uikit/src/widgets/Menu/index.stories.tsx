@@ -161,7 +161,7 @@ export const Connected: React.FC = () => {
 export const NotConnected: React.FC = () => {
   return (
     <BrowserRouter>
-      <Menu isDark={false} toggleTheme={noop} langs={langs} setLang={noop} currentLang="EN" links={links}>
+      <Menu isDark={true} toggleTheme={noop} langs={langs} setLang={noop} currentLang="EN" links={links}>
         <div>
           <h1>Page body</h1>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
@@ -182,7 +182,7 @@ export const NotConnected: React.FC = () => {
 export const WithoutConnectButton: React.FC = () => {
   return (
     <BrowserRouter>
-      <Menu isDark={false} toggleTheme={noop} langs={langs} setLang={noop} currentLang="EN" links={links}>
+      <Menu isDark={true} toggleTheme={noop} langs={langs} setLang={noop} currentLang="EN" links={links}>
         <div>
           <h1>No connect button on top</h1>
           This variant is needed for info site
@@ -206,7 +206,7 @@ export const WithSubmenuSelected: React.FC = () => {
   return (
     <MemoryRouter initialEntries={["/teams"]}>
       <Menu
-        isDark={false}
+        isDark={true}
         toggleTheme={noop}
         langs={langs}
         setLang={noop}
